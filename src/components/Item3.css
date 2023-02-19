@@ -1,0 +1,12 @@
+.section-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 200px;
+}
+
+.section-text {
+    font-size: 32px;
+    font-weight:500;
+    color: #FEFFFE;
+}
